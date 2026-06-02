@@ -33,20 +33,20 @@ From this foundation, the system computes core financial and operational metrics
 
 ## 📊 Report Modules & Key Metrics Included
 
-As outlined in **"Báo_cáo_COGS.pdf"**, the analysis is divided into four key operational dashboards[cite: 1]:
+As outlined in **"Executive Summary.pdf"**, the analysis is divided into four key operational dashboards [Executive Summary](https://github.com/thuhang24ld/Weekly_COGS/blob/main/Presentation/Executive%20Summary.pdf):
 
 ### 1. Executive Summary & Revenue Structure
-* **Revenue Breakdown:** Visualizes revenue share by product type (Buffet tickets vs. À la carte)[cite: 1].
-* **COGS Trend Over Time:** Tracks weekly fluctuations in food costs to flag operational anomalies (e.g., supplier price spikes, kitchen portion control issues)[cite: 1].
+* **Revenue Breakdown:** Visualizes revenue share by product type [Buffet tickets vs. À la carte](https://github.com/thuhang24ld/Weekly_COGS/blob/main/Presentation/Revenue%20Breakdown%20%26%20COGS%20Trend%20Over%20Time.pdf).
+* **COGS Trend Over Time:** Tracks weekly fluctuations in food costs to flag operational anomalies (e.g., supplier price spikes, kitchen portion control issues)
 
-### 2. Buffet Gaskets Analysis (Food & Drink Tickets)
-* **Detailed Group Breakdown:** Itemized consumption and costs for specific ticket types like *Vé ăn xanh* and *Vé uống lành*[cite: 1].
-* **Average Consumption per Guest:** Calculates the exact average quantity of each ingredient group consumed by a single customer[cite: 1].
+### 2. Buffet Cost & Consumption Analysis by Ticket Type (Food & Drink Tickets)
+* **Detailed Group Breakdown:** Itemized consumption and costs for specific ticket types like [Food Ticket](https://github.com/thuhang24ld/Weekly_COGS/blob/main/Presentation/Buffet%20Cost%20By%20Food%20Ticket.pdf) and [Drink Ticket](https://github.com/thuhang24ld/Weekly_COGS/blob/main/Presentation/Buffet%20Cost%20By%20Drink%20Ticket.pdf).
+* **Average Consumption per Guest:** Calculates the exact average quantity of each ingredient group consumed by a single customer.
 
-### 3. Direct Sales (À la carte / Hàng bán thẳng)
-* Separate tracking for revenue, cost, and net margins of items sold directly outside the standard buffet packages[cite: 1].
+### 3. Direct Sales (À la carte)
+* Separate tracking for revenue, cost, and net margins of items sold directly outside the standard buffet packages [À la carte](https://github.com/thuhang24ld/Weekly_COGS/blob/main/Presentation/%C3%80%20la%20carte.pdf).
 
-### 4. Inventory Discharges & Warehouse Issues (Xuất hủy & Xuất kho)
-* **Wastage Log:** Granular tracking of the value of items discarded during the period[cite: 1].
-* **Warehouse Outflow:** Measures total quantities and financial value issued from the central store/kitchen to cross-check with actual consumption[cite: 1].
+### 4. Inventory Discharges & Warehouse Issues
+* **Wastage Log:** Granular tracking of the value of items discarded during the period [Disposal](https://github.com/thuhang24ld/Weekly_COGS/blob/main/Presentation/Disposal.pdf).
+* **Warehouse Outflow:** Measures total quantities and financial value issued from the central store/kitchen to cross-check with actual consumption [Goods issued](https://github.com/thuhang24ld/Weekly_COGS/blob/main/Presentation/Goods%20issued.pdf).
 
